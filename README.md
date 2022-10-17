@@ -42,3 +42,6 @@ I am Tarun Choudhary, currently pursuing my Bachelors majoring in computer scien
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchoudhary1805&theme=tokyonight" />
 </p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p>
+
