@@ -8,7 +8,7 @@ I am Tarun Choudhary, currently pursuing my Bachelors majoring in computer scien
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://tarunchoudhary1805.github.io/portfolio)](https://tarunchoudhary1805.github.io/portfolio)
 
 
-[![Tarun's github activity graph](https://activity-graph.herokuapp.com/graph?username=tarunchoudhary1805&theme=xcode)](https://git.io/tarunchoudhary1805)
+[![Tarun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tarunchoudhary1805&bg_color=000000&color=ff42f6&line=ffffff&point=e23636&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ⚡ Technologies
