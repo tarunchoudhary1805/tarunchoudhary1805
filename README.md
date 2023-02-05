@@ -34,6 +34,9 @@ I am Tarun Choudhary, currently pursuing my Bachelors majoring in computer scien
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
 
+### Leetcode
+![Leetcode Stats](https://leetcard.jacoblin.cool/tarunchoudhary1805?theme=dark&font=Oregano&ext=activity)
+
 
 ## 📈 Stats
 <p align="center">
