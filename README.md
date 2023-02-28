@@ -46,5 +46,5 @@ I am Tarun Choudhary, currently pursuing Masters of Computer Applications from [
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p>sdf
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p>
 
