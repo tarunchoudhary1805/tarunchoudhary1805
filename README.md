@@ -30,12 +30,13 @@ I am [Tarun Choudhary](https://linkedin.com/in/tarunchoudhary1805) ! , currently
 
 ## 📈 Stats
 
-<p align="center">
+<p align="left">
 
-  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=tarunchoudhary1805&show_icons=true&theme=tokyonight" />
-  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchoudhary1805&theme=tokyonight" />
-  <img width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunchoudhary1805&show_icons=true&locale=en&layout=compact" alt="tarunchoudhary1805" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=tarunchoudhary1805&show_icons=true&theme=tokyonight" />
+ 
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=tarunchoudhary1805&show_icons=true&locale=en&layout=compact" alt="tarunchoudhary1805" />
 </p>
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunchoudhary1805&theme=tokyonight" />
 
 ### Libraries & Framework :
 
