@@ -52,6 +52,6 @@ I am [Tarun Choudhary](https://linkedin.com/in/tarunchoudhary1805) ! , currently
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-[![Tarun's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tarunchoudhary1805&bg_color=5F3E2B&color=ffffff&line=ffffff&point=d23939&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tarun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tarunchoudhary1805&bg_color=2f282c&color=fcfcfc&line=7eacc9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p></p><br/>
