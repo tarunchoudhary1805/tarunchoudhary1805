@@ -26,6 +26,8 @@ I am [Tarun Choudhary](https://linkedin.com/in/tarunchoudhary1805) ! , currently
 
 - 📫 How to reach me **tarunchoudhary1805@gmail.com**
 
+- 🧾 Resume : [Resume](https://drive.google.com/file/d/1y96_8-OADU5GLsuLecEwBa-3CeW0WGJs/view?usp=sharing)
+
 - ⚡ Fun fact **I love creating smooth web applications in reactjs.**
 
 ## 📈 Stats
