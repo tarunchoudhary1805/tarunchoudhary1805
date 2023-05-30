@@ -17,7 +17,7 @@ Allow me to introduce myself and share my background and aspirations in the fiel
 
 <p align="justify"><b>🚀 Career Aspirations:</b> With my dedication, drive, and expertise, I am confident in my ability to contribute to any software development project. I am eager to join a dynamic team where I can leverage my skills and knowledge to make a positive impact. My ultimate goal is to grow as a software developer and contribute to building innovative solutions that solve real-world problems.</p>
 
-<p align="justify">Thank you for taking the time to read my LinkedIn profile. I look forward to connecting with professionals who share similar interests and values. Let's explore opportunities to collaborate and make a difference in the world of software development! Feel free to reach out and connect with me.</p>
+<p align="justify">Thank you for taking the time to read my Github profile. I look forward to connecting with professionals who share similar interests and values. Let's explore opportunities to collaborate and make a difference in the world of software development! Feel free to reach out and connect with me.</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunchoudhary1805" alt="tarunchoudhary1805" /></a> </p>
 
